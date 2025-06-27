@@ -7,6 +7,7 @@
   <br/>
   Built as part of my Frontend learning journey 🚀
 </p>
+
 ## 🚀 Features
 
 - 🎯 Clean and modern layout
