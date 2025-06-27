@@ -1,12 +1,10 @@
-# 🎨 Visual Studio Code Landing Page Clone
+🎨 Visual Studio Code Landing Page Clone
 
 This is a front-end clone of the official [Visual Studio Code](https://code.visualstudio.com/) landing page, created using only **HTML5** and **CSS3**.
 
 It replicates the look and structure of VS Code’s homepage, including the hero section, navigation bar, and Agent Mode feature section.
 
----
-
-## ✨ Features
+✨ Features
 
 - ✅ Responsive navigation bar
 - ✅ Hero section with headline & buttons
@@ -14,22 +12,12 @@ It replicates the look and structure of VS Code’s homepage, including the hero
 - ✅ Flexbox-based layout and modern CSS
 - ✅ Clean, minimal UI inspired by Visual Studio Code
 
----
-
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 - HTML5
 - CSS3 (Flexbox)
-
----
-
-## 📸 Screenshot
-
-![Screenshot](screenshot.png)
-
----
-
-## 🚀 How to Run Locally
+                
+🚀 How to Run Locally
 
 1. Clone this repository:
    ```bash
